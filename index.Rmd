@@ -1,0 +1,13 @@
+---
+title: "index"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+``` https://rebecca-sebastian.rstudio.cloud/832d05ac0d8e4821b058d596685a7f76/file_show?path=%2Fcloud%2Fproject%2FEvolutionary+Genomics%2FLab.html```
+
