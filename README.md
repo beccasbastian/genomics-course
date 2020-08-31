@@ -1,1 +1,1 @@
-# genomics-course
+# Lab2 testing github
